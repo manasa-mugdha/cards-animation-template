@@ -1,7 +1,7 @@
 # cards-animation-template
 
-**Animated Cards Template - HTML & CSS
-**
+**Animated Cards Template - HTML & CSS**
+
 This HTML template allows you to create visually appealing animated cards for your web projects. It's a simple and customizable solution to add dynamic content presentation to your website.
 
 Features:
