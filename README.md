@@ -13,7 +13,7 @@ Click Effect: Engaging click animation provide an interactive touch to the cards
 Usage:
 Use the HTML & CSS files and include it in your project directory.
 Customize the content within the designated HTML sections for each card.
-Adjust styling and animations in the CSS file to suit your preferences.
+Adjust styling and animations in the CSS file to suit your preferences. 
                                                                                                                                                       Feel free to add or remove cards based on your project requirements.
 
 HAPPY DEVELOPING!
